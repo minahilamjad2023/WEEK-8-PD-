@@ -1,0 +1,7 @@
+C:\Users\Mr Saim\source\repos\PD(8)Task1\PD(8)Task3\bin\Debug\PD(8)Task3.exe.config
+C:\Users\Mr Saim\source\repos\PD(8)Task1\PD(8)Task3\bin\Debug\PD(8)Task3.exe
+C:\Users\Mr Saim\source\repos\PD(8)Task1\PD(8)Task3\bin\Debug\PD(8)Task3.pdb
+C:\Users\Mr Saim\source\repos\PD(8)Task1\PD(8)Task3\obj\Debug\PD(8)Task3.csproj.AssemblyReference.cache
+C:\Users\Mr Saim\source\repos\PD(8)Task1\PD(8)Task3\obj\Debug\PD(8)Task3.csproj.CoreCompileInputs.cache
+C:\Users\Mr Saim\source\repos\PD(8)Task1\PD(8)Task3\obj\Debug\PD(8)Task3.exe
+C:\Users\Mr Saim\source\repos\PD(8)Task1\PD(8)Task3\obj\Debug\PD(8)Task3.pdb
